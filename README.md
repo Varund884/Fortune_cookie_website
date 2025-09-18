@@ -2,6 +2,12 @@
 Do you want to know your fortune? Look no further! Simply press the button on the website and discover what your fortune holds. 🥠 This is a fun and simple web app where, with a single click, you receive your AI-generated fortune.
 <img width="1917" height="997" alt="screenshotcookie" src="https://github.com/user-attachments/assets/2207b855-c243-4b02-ad02-e2cf33cfc726" />
 
+## 📌 Overview
+This is a simple web app that demonstrates a **front-end + back-end structure**.  
+- The **frontend** is a webpage with a button.  
+- When the button is clicked, it requests the **backend**.  
+- The **backend** (Flask) returns a random fortune by calling the Cohere LLM.  
+- The fortune is then displayed on the page.
 
 ## ⚙️ Setup Instructions
 
